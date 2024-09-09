@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@400;600;700&family=Pixelify+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@500;700&family=Pixelify+Sans:wght@400..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=SUSE:wght@100..800&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    position:static;
+    background-image: url('resources/SIU.gif');
+    background-size:auto;
+    background-repeat:no-repeat;
+}
+h1{
+    text-align: center;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.poppoly{
+background: rgba(255, 255, 255, 0.31);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5.6px);
+-webkit-backdrop-filter: blur(5.6px);
+   padding: 10px;
+
+   margin-left: 30%;
+   margin-right: 30%;
+   position: relative;
+#profile{
+    width: 180px;
+    height: 215px;
+    position: relative;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.30);
+    margin: 2%;
+    
+}    
+.Text{
+margin: 2%;
+align-items: start;
+    .First{ font-family: "Prompt", sans-serif;
+        font-weight:600;
+        font-style: normal;
+        position: relative;
+        font-size: 25px; 
+        bottom: 20px;
+    }
+
+    .Second{
+font-family: "Prompt", sans-serif;
+        font-weight:600;
+        font-style: normal;
+        position: relative;
+        font-size: 18px; }
+    
+    .Third{
+        font-family: "Prompt", sans-serif;
+        font-weight:600;
+        font-style: normal;
+        position: relative;
+        font-size: 18px; }
+    }
+}
+.Video {
+    font-family: "Mitr", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+   position: relative;
+   text-align: center;
+    font-size: 30px;
+    margin: 0px;
+    padding: 0%;
+}
+.CSLO{
+    width: 180px;
+    height: 80px;
+    position:relative;
+border-radius: 8px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+padding-top: 2px;
+padding-bottom: 10px;
+padding-left: 90%;
+background: rgba(255, 255, 255, 0.5);
+}
